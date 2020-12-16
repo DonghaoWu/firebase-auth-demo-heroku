@@ -1,4 +1,4 @@
-# auth-demo-heroku
+# Firebase-auth-demo-heroku
 
 <p align="center">
 <img src="./assets/auth-demo-01.png" width=85%>
